@@ -1,0 +1,5 @@
+C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.csproj.AssemblyReference.cache
+C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.AssemblyInfoInputs.cache
+C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.AssemblyInfo.cs
+C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.csproj.CoreCompileInputs.cache
