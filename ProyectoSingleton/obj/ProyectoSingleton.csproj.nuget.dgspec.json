@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anemone\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\ProyectoSingleton.csproj": {}
+    "C:\\Users\\jabe4\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\ProyectoSingleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anemone\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\ProyectoSingleton.csproj": {
+    "C:\\Users\\jabe4\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\ProyectoSingleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anemone\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\ProyectoSingleton.csproj",
+        "projectUniqueName": "C:\\Users\\jabe4\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\ProyectoSingleton.csproj",
         "projectName": "ProyectoSingleton",
-        "projectPath": "C:\\Users\\anemone\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\ProyectoSingleton.csproj",
-        "packagesPath": "C:\\Users\\anemone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anemone\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\obj\\",
+        "projectPath": "C:\\Users\\jabe4\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\ProyectoSingleton.csproj",
+        "packagesPath": "C:\\Users\\jabe4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jabe4\\source\\repos\\ProyectoSingleton\\ProyectoSingleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\anemone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jabe4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,3 +3,17 @@ C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6
 C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.AssemblyInfoInputs.cache
 C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.AssemblyInfo.cs
 C:\Users\anemone\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.csproj.CoreCompileInputs.cache
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.AssemblyInfoInputs.cache
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.AssemblyInfo.cs
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.csproj.CoreCompileInputs.cache
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\bin\Debug\net6.0\ProyectoSingleton.exe
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\bin\Debug\net6.0\ProyectoSingleton.deps.json
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\bin\Debug\net6.0\ProyectoSingleton.runtimeconfig.json
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\bin\Debug\net6.0\ProyectoSingleton.dll
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\bin\Debug\net6.0\ProyectoSingleton.pdb
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.dll
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\refint\ProyectoSingleton.dll
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.pdb
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ProyectoSingleton.genruntimeconfig.cache
+C:\Users\jabe4\source\repos\ProyectoSingleton\ProyectoSingleton\obj\Debug\net6.0\ref\ProyectoSingleton.dll

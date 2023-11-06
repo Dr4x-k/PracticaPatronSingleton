@@ -8,6 +8,7 @@ namespace ProyectoSingleton
 {
     public class Task
     {
+        public int taskId {  get; set; }
         public string taskName { get; set; }
 
         public string taskDescription { get; set; }
@@ -16,8 +17,8 @@ namespace ProyectoSingleton
 
         public string taskPriority { get; set; }
 
-        public Task(string name, string description, string status, string priority) 
-        {
+        public Task(int id, string name, string description, string status, string priority) {
+            taskId = id;
             taskName = name;
             taskDescription = description;
             taskStatus = status;
